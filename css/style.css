@@ -90,3 +90,9 @@ header {
     height: 200px;
     border-radius: 15px;
 }
+
+/* about */
+#about {
+    background-color: #e0e0e0;
+    line-height: 1.5;
+}
