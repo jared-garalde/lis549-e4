@@ -68,7 +68,25 @@ header {
     background-color: #0084Af;
 }
 
-#motto {
+.motto {
     font-style: italic;
     font-size: 1.25rem;
+}
+
+/* menu */
+#menu {
+    background-color: #F0F0F0;
+}
+
+#menu dl dt { 
+    font-size: 1.25rem;
+    font-style: bold;
+    margin-top: 1rem;
+}
+#menu dl dt dd { 
+    margin: 0;
+}
+#menu img {
+    height: 200px;
+    border-radius: 15px;
 }
