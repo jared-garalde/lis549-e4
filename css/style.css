@@ -33,7 +33,7 @@ p, dl {
     max-width: 960px;
     margin-left: auto;
     margin-right: auto;
-    padding: 1em;
+    padding: 1rem;
 }
 
 /* navbar */
@@ -83,7 +83,7 @@ header {
     font-style: bold;
     margin-top: 1rem;
 }
-#menu dl dt dd { 
+#menu dd { 
     margin: 0;
 }
 #menu img {
